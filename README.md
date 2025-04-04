@@ -3,7 +3,7 @@ A simple script to bypass required online Microsoft Account during Windows insta
 
 # Instructions
 1. Download project (here)
-2. Extract the files into a flash drive
+2. Extract the files into a flash drive (you can use the same flash drive used to install Windows or any other acessible storage device)
 3. During Windows Installation, when it asks for a Windows account, press Shift + F10 to open Command Prompt
 4. Reach the flash drive (D:, E:, F:...)
 5. Execute the batch file `bypass.bat`
