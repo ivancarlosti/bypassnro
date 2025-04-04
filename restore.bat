@@ -49,7 +49,7 @@ echo Current adapter status:
 powershell -command "Get-NetAdapter | Format-Table Name,Status -AutoSize"
 
 :: =============================================
-:: (4) FORCE NETWORK RESTART
+:: FORCE NETWORK RESTART
 :: =============================================
 echo Restarting network services...
 net stop dnscache >nul 2>&1
