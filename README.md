@@ -6,7 +6,7 @@ A simple script to bypass required online Microsoft Account during Windows insta
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors)](https://github.com/sponsors/ivancarlosti)
 
 # Instructions
-1. Download project (here)
+1. Download project files ([here](https://github.com/ivancarlosti/bypassnro/zipball/master))
 2. Extract the files into a flash drive (you can use the same flash drive used to install Windows or any other acessible storage device)
 3. During Windows Installation, when it asks for a Microsoft account, press Shift + F10 to open Command Prompt
 4. Reach the flash drive letter (D:, E:, F:... you can try each letter and check drive content using command `dir`)
