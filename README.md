@@ -8,7 +8,7 @@ A simple script to bypass NRO, required online Microsoft Account during Windows 
 # Instructions
 1. Download project files ([here](https://github.com/ivancarlosti/bypassnro/zipball/master))
 2. Extract the files into a flash drive (you can use the same flash drive used to install Windows or any other acessible storage device)
-3. During Windows Installation, when it asks for a Microsoft account, press `Shift + F10` (`FN + Shift + F10` for keyboard with locked secondary function keys) to open Command Prompt
+3. During Windows Installation, when it asks for a Microsoft account, press `Shift + F10` (use `FN + Shift + F10` for keyboard with locked secondary function keys) to open Command Prompt
 4. Reach the flash drive letter (`D:`, `E:`, `F:`... you can try each letter and check drive content using command `dir`)
 5. Execute the batch file `bypass.bat`, just type the filename on Command Prompt after opening drive letter
 6. The system will reboot
