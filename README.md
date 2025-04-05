@@ -1,4 +1,4 @@
-# Out-of-Box Experience: Bypass Network Readiness Operations
+# Bypass Network Readiness Operations
 A simple script to bypass NRO, required online Microsoft Account during Windows 11 installation
 
 <a target="_blank" href="https://github.com/ivancarlosti/bypassnro"><img src="https://img.shields.io/github/stars/ivancarlosti/bypassnro?style=flat" /></a>
